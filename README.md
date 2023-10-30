@@ -17,14 +17,14 @@ This project is being created created using Node.js, Express, MongoDB, HTML, CSS
 
 ## Screenshots
 >HomePage
-<img src="https://github.com/ravenclaw03/YelpCamp/assets/100299605/8629d5f8-3e01-42da-8346-fe0b36153437" >
+![Screenshot 2023-10-30 225930](https://github.com/ravenclaw03/YelpCamp/assets/100299605/7bd96ec3-64ac-4041-bfce-cb88ad30d4dc)
 
 >All Campgrounds
-<img src="https://github.com/ravenclaw03/YelpCamp/assets/100299605/4dbc96a8-2d94-4ad0-9453-817cc2497a8b" >
+![Screenshot 2023-10-30 233531](https://github.com/ravenclaw03/YelpCamp/assets/100299605/566dbdc7-055a-46fe-a5bc-318bdf0c9a51)
 
 >Login Screen
-<img src="https://github.com/ravenclaw03/YelpCamp/assets/100299605/78e3a0bf-cbb0-498f-af89-d5dab35f5d8b" >
+![Screenshot 2023-10-30 230257](https://github.com/ravenclaw03/YelpCamp/assets/100299605/545651c0-9b80-403c-ba2b-04b883cbb205)
 
 >Single Campground
-<img src="https://github.com/ravenclaw03/YelpCamp/assets/100299605/8891d671-1e87-47b4-bdee-b5d9071c70a1" >
+![Screenshot 2023-10-30 230903](https://github.com/ravenclaw03/YelpCamp/assets/100299605/80d5a547-5580-454e-be4b-ee6bd30850d6)
 
